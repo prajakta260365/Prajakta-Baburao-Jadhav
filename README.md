@@ -21,5 +21,6 @@
 To build practical projects, gain internship experience and become a skilled software developer.
 
 ## Connect With Me
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
+- LinkedIn: https://www.linkedin.com/in/prajakta-jadhav-17b742362/
+- Email: praju3102007@gmail.com
+  
